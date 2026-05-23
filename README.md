@@ -10,7 +10,7 @@
 > # 📜 Installation Guide 📜
 
 - 1 ‎  Install Fabric Installer and setup Using version 1.21.4 Make sure to Enable "Create Profile"
-- 2  ‎ ‎ Download Xeno 1.21.4 and Meteor Client and Copy Both Files at the same time
+- 2  ‎ ‎ Download The Mod
 - 3  ‎  Open the Run Dialouge By Holding ` Windows + R ` Or By Searching it in Windows Search Bar
 - 4  ‎  Type In ` %appdata%\.minecraft ` and hit Enter
 - 5  ‎  Navigate To the folder named ` mods ` It May already be created automatically, If Not create one called ` mods ` all lowercase
